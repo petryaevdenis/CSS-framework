@@ -1,4 +1,4 @@
-MyTestRepository
+CSS Framework
 ================
 
 Мой первый тестовый репозиторий на GitHub
